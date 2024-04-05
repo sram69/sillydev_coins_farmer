@@ -23,6 +23,14 @@ If you want to host the code somewhere else, here a list of host that sillydev.c
 - [bot-hosting.net](https://bot-hosting.net/) (good hosting, never down, coins are slow)
 - [huguitisnodes.host](https://dash.huguitisnodes.host/) (ugly background, weird asf)
 
+## 4. Yields
+| Period    | Yields    |
+|-----------|-----------|
+| 1 minute  | 5¢        |
+| 1 day     | 7200¢     |
+| 7 days    | 50400¢    |
+| 30 days   | 216000¢   |
+| 365 days  | 2628000¢  |
 
 ## idk
 Feel free to make fork/pull request and if you find bug go to [Issues](https://github.com/JayroJOJO/sillydev_coins_farmer/issues)
