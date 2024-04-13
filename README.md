@@ -33,4 +33,4 @@ If you want to host the code somewhere else, here a list of host that sillydev.c
 | 365 days  | 2628000¢  |
 
 ## idk
-Feel free to make fork/pull request and if you find bug go to [Issues](https://github.com/JayroJOJO/sillydev_coins_farmer/issues)
+Feel free to make fork/pull request and if you find bug go to [Issues](https://github.com/Trolololos/sillydev_coins_farmer/issues)
